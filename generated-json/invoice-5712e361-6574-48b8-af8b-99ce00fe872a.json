@@ -1,0 +1,87 @@
+{
+  "supplierInformation": {
+    "name": "ESHOPPS, Inc.",
+    "address": "111 N. Sunset Ave City of Industry, CA 91744",
+    "phone": null,
+    "email": null,
+    "invoiceNumber": "14315",
+    "invoiceDate": "8/25/2025",
+    "dueDate": "9/24/2025",
+    "poNumber": "S15X65",
+    "poDate": null
+  },
+  "items": [
+    {
+      "sku": "89044",
+      "description": "Power Flow PF 1200 Overflow",
+      "qty": 18,
+      "rate": 73.33,
+      "vat": null,
+      "total": 1319.94,
+      "grandTotal": 3687.96
+    },
+    {
+      "sku": "89204",
+      "description": "Flex Hose 3ft. X 1\"",
+      "qty": 100,
+      "rate": 7.85,
+      "vat": null,
+      "total": 785,
+      "grandTotal": 3687.96
+    },
+    {
+      "sku": "89174",
+      "description": "Bulkhead 1\" SxS",
+      "qty": 100,
+      "rate": 2.61,
+      "vat": null,
+      "total": 261,
+      "grandTotal": 3687.96
+    },
+    {
+      "sku": "31671",
+      "description": "Filter Sock rectangular",
+      "qty": 100,
+      "rate": 7.32,
+      "vat": null,
+      "total": 732,
+      "grandTotal": 3687.96
+    },
+    {
+      "sku": "89234",
+      "description": "Foam Round Small",
+      "qty": 0,
+      "rate": 3.39,
+      "vat": null,
+      "total": 0,
+      "grandTotal": 3687.96
+    },
+    {
+      "sku": "12825",
+      "description": "Foam Square Large",
+      "qty": 0,
+      "rate": 4.7,
+      "vat": null,
+      "total": 0,
+      "grandTotal": 3687.96
+    },
+    {
+      "sku": "89144",
+      "description": "REEF SUMP RS-200",
+      "qty": 4,
+      "rate": 176.02,
+      "vat": null,
+      "total": 704.08,
+      "grandTotal": 3687.96
+    },
+    {
+      "sku": "29871",
+      "description": "Filter Sock 3pk rectang",
+      "qty": 0,
+      "rate": 19.38,
+      "vat": null,
+      "total": 0,
+      "grandTotal": 3687.96
+    }
+  ]
+}

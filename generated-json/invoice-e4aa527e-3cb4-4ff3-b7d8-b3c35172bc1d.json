@@ -1,0 +1,168 @@
+{
+  "supplierInformation": {
+    "name": "lee's AQUARIUM & PET PRODUCTS",
+    "address": "Lees Aquarium & Pet Products P.O. Box 186 San Marcos, Ca 92079-0186",
+    "phone": "760/744-8230 800/854-2993",
+    "email": null,
+    "invoiceNumber": "184690",
+    "invoiceDate": "7/10/2025",
+    "dueDate": null,
+    "poNumber": "S15J13",
+    "poDate": null
+  },
+  "items": [
+    {
+      "sku": "10250",
+      "description": "2-Way/Guppy Breeder, Boxed",
+      "qty": 24,
+      "rate": 3.438,
+      "vat": null,
+      "total": 82.51,
+      "grandTotal": 2667.02
+    },
+    {
+      "sku": "10265",
+      "description": "Net Breeder, Boxed",
+      "qty": 48,
+      "rate": 4.977,
+      "vat": null,
+      "total": 238.9,
+      "grandTotal": 2667.02
+    },
+    {
+      "sku": "11556",
+      "description": "GVC, 10\" w/Nozzle & Self Start",
+      "qty": 24,
+      "rate": 10.494,
+      "vat": null,
+      "total": 251.86,
+      "grandTotal": 2667.02
+    },
+    {
+      "sku": "12520",
+      "description": "Discard-a- Stone,Coarse 6/Card",
+      "qty": 48,
+      "rate": 3.105,
+      "vat": null,
+      "total": 149.04,
+      "grandTotal": 2667.02
+    },
+    {
+      "sku": "14103",
+      "description": "Airline Control Kit, Carded",
+      "qty": 72,
+      "rate": 2.178,
+      "vat": null,
+      "total": 156.82,
+      "grandTotal": 2667.02
+    },
+    {
+      "sku": "14104",
+      "description": "2-Way Plastic Valve, 2/Card",
+      "qty": 72,
+      "rate": 1.008,
+      "vat": null,
+      "total": 72.58,
+      "grandTotal": 2667.02
+    },
+    {
+      "sku": "14105",
+      "description": "3-Way Plastic Valve, 2/Card",
+      "qty": 36,
+      "rate": 1.332,
+      "vat": null,
+      "total": 47.95,
+      "grandTotal": 2667.02
+    },
+    {
+      "sku": "14505",
+      "description": "8' Airline Standard,Sleeved",
+      "qty": 144,
+      "rate": 1.35,
+      "vat": null,
+      "total": 194.4,
+      "grandTotal": 2667.02
+    },
+    {
+      "sku": "14655",
+      "description": "25' Sleek Airline Sleeved",
+      "qty": 48,
+      "rate": 3.357,
+      "vat": null,
+      "total": 161.14,
+      "grandTotal": 2667.02
+    },
+    {
+      "sku": "19538",
+      "description": "Bettahex w/Lid,Gravel,& Plant",
+      "qty": 36,
+      "rate": 4.023,
+      "vat": null,
+      "total": 144.83,
+      "grandTotal": 2667.02
+    },
+    {
+      "sku": "20010",
+      "description": "6 X 81/P Rect K- Keeper Mini",
+      "qty": 144,
+      "rate": 1.86,
+      "vat": null,
+      "total": 267.84,
+      "grandTotal": 2667.02
+    },
+    {
+      "sku": "20020",
+      "description": "6 x 21/P Rect K- Keeper Medium",
+      "qty": 96,
+      "rate": 5.4975,
+      "vat": null,
+      "total": 527.76,
+      "grandTotal": 2667.02
+    },
+    {
+      "sku": "20025",
+      "description": "2 × 21/P Rect K- Keeper Large",
+      "qty": 24,
+      "rate": 8.4675,
+      "vat": null,
+      "total": 203.22,
+      "grandTotal": 2667.02
+    },
+    {
+      "sku": "20060",
+      "description": "Hermit Crab Hideaway Kit",
+      "qty": 4,
+      "rate": 15.453,
+      "vat": null,
+      "total": 61.81,
+      "grandTotal": 2667.02
+    },
+    {
+      "sku": "20086",
+      "description": "6 x 21/P Herp Haven Medium",
+      "qty": 12,
+      "rate": 5.4975,
+      "vat": null,
+      "total": 65.97,
+      "grandTotal": 2667.02
+    },
+    {
+      "sku": "20165",
+      "description": "Meal Worm Dish Sleeve",
+      "qty": 72,
+      "rate": 1.125,
+      "vat": null,
+      "total": 81,
+      "grandTotal": 2667.02
+    },
+    {
+      "sku": null,
+      "description": "Damage 1.5%",
+      "qty": 1,
+      "rate": -40.61,
+      "vat": null,
+      "total": -40.61,
+      "grandTotal": 2667.02
+    }
+  ]
+}

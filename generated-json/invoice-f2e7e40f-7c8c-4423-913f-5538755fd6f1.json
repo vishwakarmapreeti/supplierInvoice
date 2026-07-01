@@ -1,0 +1,23 @@
+{
+  "supplierInformation": {
+    "vendorName": "Phillips Pet Food and Supplies",
+    "invoiceNumber": "221724",
+    "invoiceDate": "08/27/2025",
+    "dueDate": "09/26/2025",
+    "poNumber": "S16Q15",
+    "poDate": null,
+    "address": "220 O'Connell Way\nSuite 100-A\nEast Taunton, Massachusetts\n02718",
+    "phone": null,
+    "email": null
+  },
+  "dealerInformation": {
+    "name": "Health Extension",
+    "address": "50 Commerce Dr Hauppauge, NY 11788-3904",
+    "phone": "+1 (631) 392-0606",
+    "email": "AR@healthextension.com",
+    "gstin": null,
+    "drugLicense": null,
+    "grandTotal": "$13,021.82"
+  },
+  "items": []
+}

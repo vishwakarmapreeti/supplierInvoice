@@ -1,0 +1,69 @@
+{
+  "supplierInformation": {
+    "name": "Al Kasibat Al Mushriqah Trading Com",
+    "address": "Omar Bin Abdul Aziz Road, Malaz Riyadh",
+    "phone": "0114967688",
+    "email": null,
+    "invoiceNumber": "4501164671",
+    "invoiceDate": "03.08.2022",
+    "dueDate": null,
+    "poNumber": "4501164671",
+    "poDate": "03.08.2022"
+  },
+  "items": [
+    {
+      "sku": "0010",
+      "description": "SONY CLEANING SERVICES Delivery Date: 03.08.2022",
+      "qty": 1,
+      "rate": 2985.23,
+      "vat": 0,
+      "total": 2985.23,
+      "grandTotal": 14719.99
+    },
+    {
+      "sku": "0020",
+      "description": "ALFA CLEANING SERVICES Delivery Date: 03.08.2022",
+      "qty": 1,
+      "rate": 1573.36,
+      "vat": 0,
+      "total": 1573.36,
+      "grandTotal": 14719.99
+    },
+    {
+      "sku": "0030",
+      "description": "ALFA B9 GF CLEANING SERVICES Delivery Date: 03.08.2022",
+      "qty": 1,
+      "rate": 59.94,
+      "vat": 0,
+      "total": 59.94,
+      "grandTotal": 14719.99
+    },
+    {
+      "sku": "0040",
+      "description": "FMS CLEANING SERVICES Delivery Date: 03.08.2022",
+      "qty": 1,
+      "rate": 3426.43,
+      "vat": 0,
+      "total": 3426.43,
+      "grandTotal": 14719.99
+    },
+    {
+      "sku": "0050",
+      "description": "AFG CLEANING SERVICES Delivery Date: 03.08.2022",
+      "qty": 1,
+      "rate": 4503.57,
+      "vat": 0,
+      "total": 4503.57,
+      "grandTotal": 14719.99
+    },
+    {
+      "sku": "0060",
+      "description": "MPC CLEANING SERVICES Delivery Date: 03.08.2022",
+      "qty": 1,
+      "rate": 251.47,
+      "vat": 0,
+      "total": 251.47,
+      "grandTotal": 14719.99
+    }
+  ]
+}

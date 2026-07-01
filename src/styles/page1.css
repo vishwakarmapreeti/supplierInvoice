@@ -1,0 +1,30 @@
+
+
+
+
+
+
+
+.invoice-list-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 16px;
+}
+
+.add-invoice-btn {
+  display: flex;
+  align-items: center;
+  gap: 11px;
+  background-color: #560140;
+  color: white;
+  border: none;
+  padding: 8px 14px;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 30px;
+}
+
+.add-invoice-btn:hover {
+  opacity: 0.9;
+}

@@ -1,0 +1,70 @@
+{
+  "dealerInformation": {
+    "name": "Jan Aushadhi Kendra",
+    "address": "GF-02 EXOTICA ELEGANCE ARCADE AHINSA KHAND -2 INDIRAPURAM GHAZIABAD U.P.",
+    "phone": "9319692103",
+    "email": "abcxyz@gmail.com",
+    "gstin": null,
+    "drugLicense": "up14210001583, up1400001586",
+    "grandTotal": "364"
+  },
+  "patientInformation": {
+    "patientName": "YASH SINGHAL",
+    "ppfNo": null,
+    "mjpjayNo": null,
+    "hospital": null,
+    "invoiceNo": "2024250150",
+    "invoiceDate": "03-04-2024",
+    "dueDate": null
+  },
+  "items": [
+    {
+      "sn": 1,
+      "hsn": "300490",
+      "productName": "Trypsin 48mg, Bromelain 90mg and Rutoside Trihydrate 100mg Tablets",
+      "pack": 10,
+      "qty": 30,
+      "batch": "Z23-504",
+      "mfg": null,
+      "exp": "4/25",
+      "mrp": 70,
+      "rate": null,
+      "dis": 0,
+      "sgst": 0,
+      "cgst": 0,
+      "total": 210
+    },
+    {
+      "sn": 2,
+      "hsn": "300490",
+      "productName": "Pantoprazole Gastro Resistant Tablets IP 40 mg",
+      "pack": 10,
+      "qty": 10,
+      "batch": "PPB-542",
+      "mfg": null,
+      "exp": "8/25",
+      "mrp": 12.1,
+      "rate": null,
+      "dis": 0,
+      "sgst": 0,
+      "cgst": 0,
+      "total": 12.1
+    },
+    {
+      "sn": 3,
+      "hsn": "300490",
+      "productName": "Cefuroxime Axetil Tablets IP 500 mg",
+      "pack": 10,
+      "qty": 10,
+      "batch": "CT230652",
+      "mfg": "Theo",
+      "exp": "7/25",
+      "mrp": 142,
+      "rate": null,
+      "dis": 0,
+      "sgst": 0,
+      "cgst": 0,
+      "total": 142
+    }
+  ]
+}

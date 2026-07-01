@@ -1,0 +1,33 @@
+{
+  "supplierInformation": {
+    "name": "Indian Railways",
+    "address": "New Delhi",
+    "phone": null,
+    "email": null,
+    "invoiceNumber": "PS25853797268011",
+    "invoiceDate": null,
+    "dueDate": null,
+    "poNumber": null,
+    "poDate": null
+  },
+  "items": [
+    {
+      "sku": null,
+      "description": "Ticket Fare",
+      "qty": null,
+      "rate": null,
+      "vat": null,
+      "total": 560,
+      "grandTotal": 583.6
+    },
+    {
+      "sku": null,
+      "description": "IRCTC Convenience Fee (Incl. of GST)",
+      "qty": null,
+      "rate": null,
+      "vat": null,
+      "total": 23.6,
+      "grandTotal": 583.6
+    }
+  ]
+}

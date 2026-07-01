@@ -1,0 +1,141 @@
+{
+  "supplierInformation": {
+    "name": "HILL'S PET NUTRITION SALES, INC",
+    "address": "PO BOX 842257 Dallas, TX 75284-2257",
+    "phone": null,
+    "email": null,
+    "invoiceNumber": "254498380",
+    "invoiceDate": "09/08/25",
+    "dueDate": null,
+    "poNumber": "S17B78",
+    "poDate": null
+  },
+  "items": [
+    {
+      "sku": "605515",
+      "description": "SD Ca Adt SB Ckn 45lb bg Rotation Allowance",
+      "qty": 2,
+      "rate": 83.86,
+      "vat": null,
+      "total": 166.04,
+      "grandTotal": null
+    },
+    {
+      "sku": "2038",
+      "description": "SD Ca Adt LB LM&BR 33lb bg Rotation Allowance",
+      "qty": 2,
+      "rate": 66.74,
+      "vat": null,
+      "total": 132.14,
+      "grandTotal": null
+    },
+    {
+      "sku": "2044",
+      "description": "SD Ca A6+ LB Ckn 33lb bg Rotation Allowance",
+      "qty": 2,
+      "rate": 67.01,
+      "vat": null,
+      "total": 132.68,
+      "grandTotal": null
+    },
+    {
+      "sku": "8839",
+      "description": "SD Ca Adt SenSt&Sk Ckn 30lb bg Rotation Allowance",
+      "qty": 11,
+      "rate": 66.74,
+      "vat": null,
+      "total": 726.77,
+      "grandTotal": null
+    },
+    {
+      "sku": "605054",
+      "description": "SD Ca Adt SenSt&Sk LB Ckn 30lb bg Rotation Allowance",
+      "qty": 3,
+      "rate": 66.74,
+      "vat": null,
+      "total": 198.21,
+      "grandTotal": null
+    },
+    {
+      "sku": "10404",
+      "description": "PD Ca i/d LFGI 27.5lb bg Rotation Allowance",
+      "qty": 3,
+      "rate": 88,
+      "vat": null,
+      "total": 261.36,
+      "grandTotal": null
+    },
+    {
+      "sku": "607831",
+      "description": "SD Ca Adt PerWgt LB Ckn 25lb bg Rotation Allowance",
+      "qty": 3,
+      "rate": 69.82,
+      "vat": null,
+      "total": 207.36,
+      "grandTotal": null
+    },
+    {
+      "sku": "607830",
+      "description": "SD Ca Adt PerWgt SB Ckn 25lb bg Rotation Allowance",
+      "qty": 3,
+      "rate": 69.82,
+      "vat": null,
+      "total": 207.36,
+      "grandTotal": null
+    },
+    {
+      "sku": "607825",
+      "description": "SD Ca Adt PerWgtJS LB Ckn 25lb bg Rotation Allowance",
+      "qty": 2,
+      "rate": 71.41,
+      "vat": null,
+      "total": 141.4,
+      "grandTotal": null
+    },
+    {
+      "sku": "605724",
+      "description": "PD Ca DermCpt 24lb bg Rotation Allowance",
+      "qty": 3,
+      "rate": 93.9,
+      "vat": null,
+      "total": 278.88,
+      "grandTotal": null
+    },
+    {
+      "sku": "604198",
+      "description": "PD Ca GIBio 16lb bg Rotation Allowance",
+      "qty": 2,
+      "rate": 65.49,
+      "vat": null,
+      "total": 129.68,
+      "grandTotal": null
+    },
+    {
+      "sku": "2897",
+      "description": "SD Ca Adt Sm&Min LM&BR 15.5lb bg Rotation Allowance",
+      "qty": 2,
+      "rate": 41.49,
+      "vat": null,
+      "total": 82.16,
+      "grandTotal": null
+    },
+    {
+      "sku": "8878",
+      "description": "SD Fel Adt SenSt&Sk Ckn 15.5lb bg Rotation Allowance",
+      "qty": 2,
+      "rate": 52.65,
+      "vat": null,
+      "total": 104.24,
+      "grandTotal": null
+    },
+    {
+      "sku": "607791",
+      "description": "SD Pup Sm&Min Ckn 12.5lb bg Rotation Allowance",
+      "qty": 2,
+      "rate": 32.85,
+      "vat": null,
+      "total": 65.04,
+      "grandTotal": null
+    }
+  ]
+}

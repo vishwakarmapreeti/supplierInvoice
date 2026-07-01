@@ -1,0 +1,24 @@
+{
+  "supplierInformation": {
+    "name": "Indian Railways",
+    "address": "New Delhi",
+    "phone": null,
+    "email": null,
+    "invoiceNumber": "PS25853797268011",
+    "invoiceDate": null,
+    "dueDate": null,
+    "poNumber": null,
+    "poDate": null
+  },
+  "items": [
+    {
+      "sku": null,
+      "description": "Ticket Fare",
+      "qty": null,
+      "rate": null,
+      "vat": 26.55,
+      "total": 560,
+      "grandTotal": 583.6
+    }
+  ]
+}
