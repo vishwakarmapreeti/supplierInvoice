@@ -1,0 +1,69 @@
+{
+  "supplierInformation": {
+    "name": "Derea Al Belaad Security Guards",
+    "address": "Vendor Address Derea Al Belaad Security Guards 00000 Riyadh",
+    "phone": "01-2937111",
+    "email": null,
+    "invoiceNumber": "4501164660",
+    "invoiceDate": "03.08.2022",
+    "dueDate": null,
+    "poNumber": "4501164660",
+    "poDate": "03.08.2022"
+  },
+  "items": [
+    {
+      "sku": "0010",
+      "description": "SONY SECURITY SERVICES Delivery Date: 03.08.2022",
+      "qty": 1,
+      "rate": 8702.24,
+      "vat": 5597.01,
+      "total": 8702.24,
+      "grandTotal": 42910.35
+    },
+    {
+      "sku": "0020",
+      "description": "ALFA SECURITY SERVICES Delivery Date: 03.08.2022",
+      "qty": 1,
+      "rate": 4586.51,
+      "vat": 5597.01,
+      "total": 4586.51,
+      "grandTotal": 42910.35
+    },
+    {
+      "sku": "0030",
+      "description": "ALFA B9 GF SECURITY SERVICES Delivery Date: 03.08.2022",
+      "qty": 1,
+      "rate": 174.72,
+      "vat": 5597.01,
+      "total": 174.72,
+      "grandTotal": 42910.35
+    },
+    {
+      "sku": "0040",
+      "description": "FMS SECURITY SERVICES Delivery Date: 03.08.2022",
+      "qty": 1,
+      "rate": 9988.41,
+      "vat": 5597.01,
+      "total": 9988.41,
+      "grandTotal": 42910.35
+    },
+    {
+      "sku": "0050",
+      "description": "AFG SECURITY SERVICES Delivery Date: 03.08.2022",
+      "qty": 1,
+      "rate": 13128.38,
+      "vat": 5597.01,
+      "total": 13128.38,
+      "grandTotal": 42910.35
+    },
+    {
+      "sku": "0060",
+      "description": "MPC SECURITY SERVICES Delivery Date: 03.08.2022",
+      "qty": 1,
+      "rate": 733.08,
+      "vat": 5597.01,
+      "total": 733.08,
+      "grandTotal": 42910.35
+    }
+  ]
+}

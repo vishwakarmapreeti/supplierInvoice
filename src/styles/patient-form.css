@@ -1,0 +1,129 @@
+/* Card container - centered, compact */
+.patient-card {
+  background: linear-gradient(135deg, #ffffff 0%, #f0fdfc 100%);
+  padding: 28px;
+  border-radius: 18px;
+  margin: 0 auto 24px;
+  max-width: 1700px;
+  box-shadow: 0 10px 40px rgba(11, 122, 110, 0.12);
+  border: 1px solid rgba(11, 122, 110, 0.15);
+  position: relative;
+  overflow: hidden;
+}
+
+/* Top accent bar - single teal color */
+.patient-card::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 4px;
+  background: #0B7A6E;
+}
+
+/* Header */
+.patient-header {
+  margin-bottom: 24px;
+  position: relative;
+}
+
+.patient-title {
+  color: #0B7A6E;
+  font-size: 22px;
+  font-weight: 700;
+  margin: 0;
+  letter-spacing: -0.5px;
+}
+
+.header-decoration {
+  width: 56px;
+  height: 4px;
+  background: #0B7A6E;
+  margin-top: 8px;
+  border-radius: 2px;
+}
+
+/* Grid layout */
+.patient-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 18px;
+  margin-bottom: 18px;
+}
+
+/* Field */
+.patient-field {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.patient-field label {
+  font-size: 12px;
+  font-weight: 600;
+  color: #0B7A6E;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  margin-bottom: 2px;
+}
+
+.patient-field input {
+  width: 100%;
+  padding: 10px 14px;
+  border: 2px solid rgba(11, 122, 110, 0.25);
+  border-radius: 10px;
+  font-size: 14px;
+  color: #2d3748;
+  background: #ffffff;
+  transition: all 0.3s ease;
+  box-sizing: border-box;
+}
+
+.patient-field input:focus {
+  outline: none;
+  border-color: #0B7A6E;
+  box-shadow: 0 0 0 3px rgba(11, 122, 110, 0.12);
+}
+
+.patient-field input:hover {
+  border-color: #0B7A6E;
+}
+
+/* Full width section */
+.patient-full {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 18px;
+  margin-top: 20px;
+  padding-top: 20px;
+  border-top: 2px solid rgba(11, 122, 110, 0.1);
+}
+
+/* Responsive */
+@media (max-width: 1024px) {
+  .patient-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 640px) {
+  .patient-card {
+    padding: 20px;
+    border-radius: 14px;
+  }
+
+  .patient-grid {
+    grid-template-columns: 1fr;
+    gap: 14px;
+  }
+
+  .patient-title {
+    font-size: 19px;
+  }
+
+  .patient-field input {
+    padding: 9px 12px;
+    font-size: 13px;
+  }
+}

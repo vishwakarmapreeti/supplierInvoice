@@ -1,0 +1,150 @@
+{
+  "supplierInformation": {
+    "name": "THE J.M. SMUCKER COMPANY",
+    "address": "PO BOX 779271 CHICAGO IL 60677-9271 US",
+    "phone": null,
+    "email": null,
+    "invoiceNumber": "73979919",
+    "invoiceDate": "09/10/2025",
+    "dueDate": "09/26/2025",
+    "poNumber": "S16L68",
+    "poDate": "08/12/2025"
+  },
+  "items": [
+    {
+      "sku": "925020",
+      "description": "MKB 10 LB LARGE DOG",
+      "qty": 242,
+      "rate": 14.27,
+      "vat": null,
+      "total": 3453.34,
+      "grandTotal": 24932.51
+    },
+    {
+      "sku": "925010",
+      "description": "MKB 10 LB MEDIUM DOG",
+      "qty": 110,
+      "rate": 14.27,
+      "vat": null,
+      "total": 1569.7,
+      "grandTotal": 24932.51
+    },
+    {
+      "sku": "7910092504",
+      "description": "MKB 7 LB FLAVOR SNAC",
+      "qty": 264,
+      "rate": 12.51,
+      "vat": null,
+      "total": 3302.64,
+      "grandTotal": 24932.51
+    },
+    {
+      "sku": "9420300",
+      "description": "MKB 19 OZ GRAVY BONE",
+      "qty": 9,
+      "rate": 42.73,
+      "vat": null,
+      "total": 384.57,
+      "grandTotal": 24932.51
+    },
+    {
+      "sku": "502250",
+      "description": "MM 16 LB ORIGINAL",
+      "qty": 360,
+      "rate": 21.43,
+      "vat": null,
+      "total": 7714.8,
+      "grandTotal": 24932.51
+    },
+    {
+      "sku": "502300",
+      "description": "MM 14.2 LB INDOOR",
+      "qty": 14,
+      "rate": 21.43,
+      "vat": null,
+      "total": 300.02,
+      "grandTotal": 24932.51
+    },
+    {
+      "sku": "515860",
+      "description": "PP 5.6 OZ BEEF FOOTB",
+      "qty": 20,
+      "rate": 28.17,
+      "vat": null,
+      "total": 563.4,
+      "grandTotal": 24932.51
+    },
+    {
+      "sku": "509600",
+      "description": "MKB 25 OZ S&C BF FLT",
+      "qty": 108,
+      "rate": 23.71,
+      "vat": null,
+      "total": 2560.68,
+      "grandTotal": 24932.51
+    },
+    {
+      "sku": "508560",
+      "description": "MKB 15 OZ FLAVOR SNC",
+      "qty": 58,
+      "rate": 20.41,
+      "vat": null,
+      "total": 1183.78,
+      "grandTotal": 24932.51
+    },
+    {
+      "sku": "829274513750",
+      "description": "MM 3.15 LB ORIGINAL",
+      "qty": 39,
+      "rate": 21.29,
+      "vat": null,
+      "total": 830.31,
+      "grandTotal": 24932.51
+    },
+    {
+      "sku": "514110",
+      "description": "MKB 24OZ LRGE ORIGIN",
+      "qty": 21,
+      "rate": 57.25,
+      "vat": null,
+      "total": 1202.25,
+      "grandTotal": 24932.51
+    },
+    {
+      "sku": "7910090202",
+      "description": "MKB 24 OZ SML ORGL D",
+      "qty": 27,
+      "rate": 57.25,
+      "vat": null,
+      "total": 1545.75,
+      "grandTotal": 24932.51
+    },
+    {
+      "sku": "7910051410",
+      "description": "MKB 24OZ MED ORIGINA",
+      "qty": 45,
+      "rate": 57.25,
+      "vat": null,
+      "total": 2576.25,
+      "grandTotal": 24932.51
+    },
+    {
+      "sku": "829274513767",
+      "description": "MM 6.3 LB ORGL",
+      "qty": 32,
+      "rate": 40.49,
+      "vat": null,
+      "total": 1295.68,
+      "grandTotal": 24932.51
+    },
+    {
+      "sku": "7910052023",
+      "description": "CCO 22.5OZ BEEF",
+      "qty": 24,
+      "rate": 26.59,
+      "vat": null,
+      "total": 638.16,
+      "grandTotal": 24932.51
+    }
+  ]
+}

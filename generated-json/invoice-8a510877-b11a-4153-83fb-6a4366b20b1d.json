@@ -1,0 +1,33 @@
+{
+  "supplierInformation": {
+    "name": "مَجمُوعَة الفيصّليتَة Al Faisaliah Group",
+    "address": "Vendor Address Mumtalakat Co. Office: 312, 3rd Floor, Al-Akariya Riyadh",
+    "phone": null,
+    "email": null,
+    "invoiceNumber": "4501190491",
+    "invoiceDate": "08.06.2023",
+    "dueDate": null,
+    "poNumber": "4501190491",
+    "poDate": "08.06.2023"
+  },
+  "items": [
+    {
+      "sku": "0010",
+      "description": "Sony Maintenance Works AC Duct GF Delivery Date: 08.06.2023",
+      "qty": 1,
+      "rate": 2432.61,
+      "vat": 729.78,
+      "total": 2432.61,
+      "grandTotal": 5595
+    },
+    {
+      "sku": "0020",
+      "description": "FMS Maintenance Works AC Duct SF Delivery Date: 08.06.2023",
+      "qty": 1,
+      "rate": 2432.61,
+      "vat": 729.78,
+      "total": 2432.61,
+      "grandTotal": 5595
+    }
+  ]
+}

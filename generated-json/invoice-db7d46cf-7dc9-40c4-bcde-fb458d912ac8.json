@@ -1,0 +1,24 @@
+{
+  "supplierInformation": {
+    "name": "Mumtalakat Co.",
+    "address": "Office: 312, 3rd Floor, Al-Akariya Riyadh",
+    "phone": null,
+    "email": null,
+    "invoiceNumber": "4501194979",
+    "invoiceDate": "02.08.2023",
+    "dueDate": null,
+    "poNumber": "4501194979",
+    "poDate": "02.08.2023"
+  },
+  "items": [
+    {
+      "sku": "0010",
+      "description": "Alfa Special maintenance and rectication Delivery Date: 02.08.2023",
+      "qty": 1,
+      "rate": 688.7,
+      "vat": 103.31,
+      "total": 688.7,
+      "grandTotal": 792.01
+    }
+  ]
+}

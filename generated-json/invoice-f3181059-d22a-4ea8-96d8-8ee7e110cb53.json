@@ -1,0 +1,223 @@
+{
+  "supplierInformation": {
+    "name": "Phillips Pet Food and Supplies",
+    "address": "220 O'Connell Way Suite 100-A East Taunton, Massachusetts 02718",
+    "phone": null,
+    "email": null,
+    "invoiceNumber": "221724",
+    "invoiceDate": "08/27/2025",
+    "dueDate": "09/26/2025",
+    "poNumber": "S16Q15",
+    "poDate": null
+  },
+  "items": [
+    {
+      "sku": "2090675",
+      "description": "Gently Cooked Chicken & Pumpkin Recipe 9oz CASE (Box 5 x 2 = 10)",
+      "qty": "20",
+      "rate": "$23.88",
+      "total": "$477.60",
+      "grandTotal": "$13,021.82"
+    },
+    {
+      "sku": "2090682",
+      "description": "Gently Cooked Beef & Potato Recipe 9oz CASE (Box 5 x 2 = 10)",
+      "qty": "20",
+      "rate": "$23.88",
+      "total": "$477.60",
+      "grandTotal": "$13,021.82"
+    },
+    {
+      "sku": "2090699",
+      "description": "Gently Cooked Lamb & Carrot Recipe for Dogs 9oz CASE (Box 5 x 2 = 10)",
+      "qty": "10",
+      "rate": "$23.88",
+      "total": "$238.80",
+      "grandTotal": "$13,021.82"
+    },
+    {
+      "sku": "2091474",
+      "description": "Gently Cooked Beef 3oz BOX OF 10",
+      "qty": "3",
+      "rate": "$21.27",
+      "total": "$63.81",
+      "grandTotal": "$13,021.82"
+    },
+    {
+      "sku": "ECOMM 1000451",
+      "description": "Original 30lb",
+      "qty": "25",
+      "rate": "$40.95",
+      "total": "$1,023.75",
+      "grandTotal": "$13,021.82"
+    },
+    {
+      "sku": "1000239",
+      "description": "Original 40lb",
+      "qty": "10",
+      "rate": "$54.09",
+      "total": "$540.90",
+      "grandTotal": "$13,021.82"
+    },
+    {
+      "sku": "1000420",
+      "description": "Little Bites 4lb",
+      "qty": "45",
+      "rate": "$12.93",
+      "total": "$581.85",
+      "grandTotal": "$13,021.82"
+    },
+    {
+      "sku": "1000444",
+      "description": "Little Bites 10lb",
+      "qty": "60",
+      "rate": "$23.79",
+      "total": "$1,427.40",
+      "grandTotal": "$13,021.82"
+    },
+    {
+      "sku": "1000468",
+      "description": "Little Bites 18lb",
+      "qty": "20",
+      "rate": "$31.97",
+      "total": "$639.40",
+      "grandTotal": "$13,021.82"
+    },
+    {
+      "sku": "1000871",
+      "description": "Grain Free Chicken and Turkey 23.5lb",
+      "qty": "20",
+      "rate": "$47.88",
+      "total": "$957.60",
+      "grandTotal": "$13,021.82"
+    },
+    {
+      "sku": "1000482",
+      "description": "Cat 15lb",
+      "qty": "1",
+      "rate": "$25.98",
+      "total": "$25.98",
+      "grandTotal": "$13,021.82"
+    },
+    {
+      "sku": "2007389",
+      "description": "Chicken 12.5oz Case for Canines",
+      "qty": "17",
+      "rate": "$22.72",
+      "total": "$386.24",
+      "grandTotal": "$13,021.82"
+    },
+    {
+      "sku": "2007396",
+      "description": "Beef 12.5oz Case for Canines",
+      "qty": "17",
+      "rate": "$22.72",
+      "total": "$386.24",
+      "grandTotal": "$13,021.82"
+    },
+    {
+      "sku": "1007709",
+      "description": "Grain Free Salmon Recipe 4lb",
+      "qty": "45",
+      "rate": "$13.74",
+      "total": "$618.30",
+      "grandTotal": "$13,021.82"
+    },
+    {
+      "sku": "1007723",
+      "description": "Grain Free Salmon Recipe 23.5lb",
+      "qty": "10",
+      "rate": "$48.51",
+      "total": "$485.10",
+      "grandTotal": "$13,021.82"
+    },
+    {
+      "sku": "1007815",
+      "description": "Grain Free Venison Recipe 23.5lb",
+      "qty": "20",
+      "rate": "$50.40",
+      "total": "$1,008.00",
+      "grandTotal": "$13,021.82"
+    },
+    {
+      "sku": "1000185",
+      "description": "Original 15lb",
+      "qty": "10",
+      "rate": "$27.19",
+      "total": "$271.90",
+      "grandTotal": "$13,021.82"
+    },
+    {
+      "sku": "1000062",
+      "description": "Lite 30lb",
+      "qty": "10",
+      "rate": "$40.95",
+      "total": "$409.50",
+      "grandTotal": "$13,021.82"
+    },
+    {
+      "sku": "1000574",
+      "description": "Little Bites 30lb",
+      "qty": "40",
+      "rate": "$44.10",
+      "total": "$1,764.00",
+      "grandTotal": "$13,021.82"
+    },
+    {
+      "sku": "1000116",
+      "description": "Lamb & Brown Rice 30lb",
+      "qty": "10",
+      "rate": "$45.10",
+      "total": "$451.00",
+      "grandTotal": "$13,021.82"
+    },
+    {
+      "sku": "1000000",
+      "description": "858755000000 Large Breed 30lb",
+      "qty": "5",
+      "rate": "$40.95",
+      "total": "$204.75",
+      "grandTotal": "$13,021.82"
+    },
+    {
+      "sku": "1009215",
+      "description": "Grain Free *Little Bites Venison* 12lb",
+      "qty": "7",
+      "rate": "$30.21",
+      "total": "$211.47",
+      "grandTotal": "$13,021.82"
+    },
+    {
+      "sku": "1009222",
+      "description": "Grain Free *Buffalo Little Bites* 3.5lb",
+      "qty": "25",
+      "rate": "$14.31",
+      "total": "$357.75",
+      "grandTotal": "$13,021.82"
+    },
+    {
+      "sku": "2090040",
+      "description": "Digestive Support Beef + Carrot Entree in Gravy 9oz for Canines",
+      "qty": "8",
+      "rate": "$20.36",
+      "total": "$162.88",
+      "grandTotal": "$13,021.82"
+    },
+    {
+      "sku": "ZZGAS CATEGORY-Z FREIGHT",
+      "description": "Freight- Shipped w/Easton (6 pallets for ET)",
+      "qty": "1",
+      "rate": "$0.00",
+      "total": "$0.00",
+      "grandTotal": "$13,021.82"
+    },
+    {
+      "sku": "DISTRO CREDIT CODES_PHILLIPS CREDIT_FREIGHT DISTRO",
+      "description": "Distribution Freight Discount",
+      "qty": "1",
+      "rate": "-$150.00",
+      "total": "-$150.00",
+      "grandTotal": "$13,021.82"
+    }
+  ]
+}

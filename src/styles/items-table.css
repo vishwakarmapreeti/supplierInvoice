@@ -1,0 +1,29 @@
+.items-card {
+  background: white;
+  padding: 20px;
+  border-radius: 12px;
+    margin: 0 auto 24px;
+  max-width: 1700px;
+}
+
+.items-title {
+  color: white;
+  margin-bottom: 12px;
+}
+
+.items-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.items-table th {
+    background: #0d9488;
+  color:white;
+  padding: 10px;
+  text-align: left;
+}
+
+.items-table td {
+  padding: 8px;
+  border-bottom: 1px solid #ddd;
+}

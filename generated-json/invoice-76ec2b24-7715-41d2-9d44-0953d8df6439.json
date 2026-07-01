@@ -1,0 +1,24 @@
+{
+  "supplierInformation": {
+    "name": "Proc.Serv. Admin.",
+    "address": "16460 Riyadh 11461 Saudi Arabia",
+    "phone": "4610077X171",
+    "email": "AFG VAT NO.",
+    "invoiceNumber": "4501190440",
+    "invoiceDate": "07.06.2023",
+    "dueDate": null,
+    "poNumber": "4501190440",
+    "poDate": "07.06.2023"
+  },
+  "items": [
+    {
+      "sku": "0010",
+      "description": "Alfa Maitenance Bathrooms Ladies section Delivery Date: 07.06.2023",
+      "qty": 1,
+      "rate": 3198.26,
+      "vat": 479.74,
+      "total": 3198.26,
+      "grandTotal": 3678
+    }
+  ]
+}

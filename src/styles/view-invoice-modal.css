@@ -1,0 +1,84 @@
+.modal-header-custom {
+  background:  #0D9488 ;
+  color: white;
+}
+
+.modal-body-custom {
+  background-color: #f0fdfc;
+}
+
+.modal-footer-custom {
+  background-color: #f0fdfc;
+}
+
+.section-title {
+  color: #0D9488;
+  margin-top: 15px;
+  font-weight: 600;
+}
+
+.close-btn {
+  background-color: #0D9488;
+  border: none;
+}
+
+.close-btn:hover {
+  opacity: 0.9;
+}
+
+/* Modal body scroll */
+.modal-scroll-body {
+  max-height: 70vh;
+  overflow-y: auto;
+}
+
+/* Horizontal scroll for items */
+.items-scroll {
+  width: 100%;
+  overflow-x: auto;
+  background: white;
+}
+
+/* Force wide table */
+.items-table {
+  width: 100%;
+  table-layout: fixed;
+  border-collapse: collapse;
+}
+
+/* Header styling */
+.items-table th {
+  background:  #0D9488 ;
+  color: white;
+  font-size: 13px;
+  position: sticky;
+  top: 0;
+}
+
+/* Cell styling */
+.items-table td {
+  font-size: 13px;
+}
+
+
+.status-badge {
+  padding: 6px 14px;
+  border-radius: 20px;
+  font-size: 13px;
+  font-weight: 600;
+}
+
+.status-badge.pending {
+  background: #fff3cd;
+  color: #856404;
+}
+
+.status-badge.approved {
+  background: #d4edda;
+  color: #155724;
+}
+
+.status-badge.rejected {
+  background: #f8d7da;
+  color: #721c24;
+}

@@ -1,0 +1,36 @@
+{
+  "name": "insurance-check",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint"
+  },
+  "dependencies": {
+    "@azure-rest/ai-document-intelligence": "^1.1.0",
+    "@azure/identity": "latest",
+    "bootstrap": "^5.3.8",
+    "dotenv": "^17.2.4",
+    "exceljs": "^4.4.0",
+    "lucide-react": "^0.563.0",
+    "next": "16.1.6",
+    "nodemailer": "^9.0.3",
+    "openai": "^6.18.0",
+    "pdfjs-dist": "^5.4.530",
+    "react": "19.2.3",
+    "react-bootstrap": "^2.10.10",
+    "react-dom": "19.2.3",
+    "recharts": "^3.9.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "babel-plugin-react-compiler": "1.0.0",
+    "eslint": "^9",
+    "eslint-config-next": "16.1.6",
+    "typescript": "^5"
+  }
+}

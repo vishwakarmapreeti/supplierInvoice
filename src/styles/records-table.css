@@ -1,0 +1,525 @@
+.records-container {
+  background: linear-gradient(135deg, #ffffff 0%, #f0fdfc 100%);
+  border-radius: 16px;
+  padding: 2rem;
+  margin-top: 2rem;
+  box-shadow: 0 10px 40px rgba(13, 148, 136, 0.08);
+  border: 1px solid rgba(13, 148, 136, 0.2);
+}
+
+/* Header Section */
+.records-header {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  margin-bottom: 2rem;
+}
+
+.header-top {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1.5rem;
+}
+
+.records-title {
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: #0D9488;
+  margin: 0;
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+.record-count {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 32px;
+  height: 32px;
+  background:  #0D9488 ;
+  color: white;
+  border-radius: 50%;
+  font-size: 0.875rem;
+  font-weight: 600;
+}
+
+/* Search Section */
+.search-wrapper {
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+
+.search-icon {
+  position: absolute;
+  left: 1rem;
+  color: #0891B2;
+  pointer-events: none;
+}
+
+.search-input {
+  width: 100%;
+  padding: 0.875rem 1rem 0.875rem 2.75rem;
+  border: 2px solid #ccfbf1;
+  border-radius: 10px;
+  font-size: 0.95rem;
+  transition: all 0.3s ease;
+  background: white;
+  font-family: inherit;
+}
+
+.search-input:focus {
+  outline: none;
+  border-color: #0D9488;
+  box-shadow: 0 0 0 3px rgba(13, 148, 136, 0.1);
+  background: white;
+}
+
+.search-input::placeholder {
+  color: #999;
+}
+
+/* Table Section */
+.table-wrapper {
+  overflow-x: auto;
+  border-radius: 12px;
+  border: 1px solid rgba(13, 148, 136, 0.3);
+}
+
+.records-table {
+  width: 100%;
+  border-collapse: collapse;
+  background: white;
+}
+
+.records-table thead {
+  background: #0D9488;
+  position: sticky;
+  top: 0;
+  z-index: 10;
+}
+
+.records-table th {
+  padding: 1rem;
+  text-align: left;
+  font-weight: 600;
+  color: white;
+  font-size: 0.9rem;
+  letter-spacing: 0.3px;
+  text-transform: uppercase;
+}
+
+.records-table tbody tr {
+  border-bottom: 1px solid rgba(13, 148, 136, 0.2);
+  transition: all 0.2s ease;
+}
+
+.records-table tbody tr:hover {
+  background-color: rgba(13, 148, 136, 0.08);
+}
+
+.records-table td {
+  padding: 1rem;
+  color: #333;
+  font-size: 0.95rem;
+}
+
+.table-row:last-child {
+  border-bottom: none;
+}
+
+/* Table Cells */
+.cell-number {
+  font-weight: 600;
+  color: #0D9488;
+  min-width: 50px;
+}
+
+.cell-name {
+  font-weight: 500;
+  color: #333;
+  min-width: 140px;
+}
+
+.cell-phone,
+.cell-email {
+  min-width: 130px;
+  color: #555;
+}
+
+.cell-invoice {
+  min-width: 110px;
+  font-family: "Courier New", monospace;
+  color: #0D9488;
+  font-weight: 500;
+}
+
+.cell-date {
+  min-width: 120px;
+  color: #666;
+}
+
+.cell-total {
+  font-weight: 600;
+  color: #0D9488;
+  min-width: 90px;
+}
+
+.cell-actions {
+  display: flex;
+  gap: 0.5rem;
+  min-width: 100px;
+}
+
+/* Empty State */
+.empty-row td {
+  padding: 3rem 1rem !important;
+}
+
+.empty-state {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #999;
+  font-size: 1rem;
+  font-weight: 500;
+}
+
+/* Buttons */
+.btn-view,
+.btn-delete {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 40px;
+  height: 40px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  font-size: 0.9rem;
+  font-weight: 600;
+}
+
+.btn-view {
+  background:  #0891B2 ;
+  color: white;
+  box-shadow: 0 4px 12px rgba(8, 145, 178, 0.3);
+}
+
+.btn-view:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 16px rgba(8, 145, 178, 0.4);
+}
+
+.btn-view:active {
+  transform: translateY(0);
+}
+
+.btn-delete {
+  background: linear-gradient(135deg, #ff6b6b 0%, #ee5a52 100%);
+  color: white;
+  box-shadow: 0 4px 12px rgba(255, 107, 107, 0.3);
+}
+
+.btn-delete:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 16px rgba(255, 107, 107, 0.4);
+}
+
+.btn-delete:active {
+  transform: translateY(0);
+}
+
+/* Upload Document Button */
+.btn-upload-doc {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  padding: 0.875rem 1.5rem;
+  background:   #0D9488;
+  /* background:  #0D9488  #1B8B7F  #0891B2 #0284C7; */
+
+  color: white;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  font-size: 0.95rem;
+  font-weight: 600;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 14px rgba(13, 148, 136, 0.3);
+  white-space: nowrap;
+}
+
+.btn-upload-doc:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(13, 148, 136, 0.4);
+}
+
+.btn-upload-doc:active {
+  transform: translateY(0);
+}
+
+/* Pagination */
+.pagination {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1.5rem;
+  margin-top: 2rem;
+  padding-top: 1.5rem;
+  border-top: 2px solid rgba(13, 148, 136, 0.2);
+}
+
+.pagination-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 44px;
+  height: 44px;
+  border: 2px solid #ccfbf1;
+  background: white;
+  color: #0D9488;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  font-weight: 600;
+}
+
+.pagination-btn:hover:not(:disabled) {
+  background: linear-gradient(135deg, #0D9488 0%, #1B8B7F 35%, #0891B2 65%, #0284C7 100%);
+  color: white;
+  border-color: #0D9488;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(13, 148, 136, 0.3);
+}
+
+.pagination-btn:disabled {
+  opacity: 0.4;
+  cursor: not-allowed;
+}
+
+.pagination-info {
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.page-input {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  background: white;
+  border: 2px solid #ccfbf1;
+  border-radius: 10px;
+  padding: 0.5rem 1rem;
+  font-weight: 600;
+}
+
+.page-number-input {
+  width: 50px;
+  border: none;
+  background: transparent;
+  font-size: 1rem;
+  font-weight: 700;
+  color: #0D9488;
+  text-align: center;
+  padding: 0;
+}
+
+.page-number-input:focus {
+  outline: none;
+}
+
+.page-separator {
+  color: #0891B2;
+  font-weight: 600;
+}
+
+.total-pages {
+  color: #666;
+  font-weight: 600;
+}
+
+.records-info {
+  color: #666;
+  font-size: 0.9rem;
+  font-weight: 500;
+}
+
+/* Responsive Design */
+@media (max-width: 1024px) {
+  .records-container {
+    padding: 1.5rem;
+  }
+
+  .header-top {
+    flex-wrap: wrap;
+  }
+
+  .btn-upload-doc {
+    padding: 0.75rem 1.25rem;
+    font-size: 0.9rem;
+  }
+
+  .records-table th,
+  .records-table td {
+    padding: 0.75rem;
+    font-size: 0.85rem;
+  }
+
+  .btn-view,
+  .btn-delete {
+    width: 36px;
+    height: 36px;
+  }
+}
+
+@media (max-width: 768px) {
+  .records-header {
+    gap: 1rem;
+  }
+
+  .header-top {
+    flex-direction: column;
+    align-items: flex-start;
+    width: 100%;
+  }
+
+  .records-container {
+    padding: 1rem;
+    margin-top: 1rem;
+    border-radius: 12px;
+  }
+
+  .records-title {
+    font-size: 1.25rem;
+  }
+
+  .btn-upload-doc {
+    width: 100%;
+    justify-content: center;
+    padding: 0.75rem 1rem;
+  }
+
+  .search-input {
+    font-size: 0.9rem;
+    padding: 0.75rem 1rem 0.75rem 2.5rem;
+  }
+
+  .table-wrapper {
+    border-radius: 10px;
+  }
+
+  .records-table th,
+  .records-table td {
+    padding: 0.65rem;
+    font-size: 0.8rem;
+  }
+
+  .cell-name,
+  .cell-phone,
+  .cell-email,
+  .cell-invoice {
+    min-width: 100px;
+  }
+
+  .pagination {
+    gap: 1rem;
+    flex-wrap: wrap;
+  }
+
+  .pagination-btn {
+    width: 40px;
+    height: 40px;
+  }
+
+  .pagination-info {
+    gap: 1rem;
+  }
+
+  .page-input {
+    padding: 0.4rem 0.75rem;
+    font-size: 0.85rem;
+  }
+
+  .page-number-input {
+    width: 40px;
+    font-size: 0.9rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .records-container {
+    padding: 0.75rem;
+  }
+
+  .header-top {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .records-title {
+    font-size: 1.1rem;
+  }
+
+  .btn-upload-doc {
+    width: 100%;
+    font-size: 0.85rem;
+    padding: 0.65rem 0.75rem;
+  }
+
+  .search-input {
+    font-size: 0.85rem;
+    padding: 0.65rem 0.85rem 0.65rem 2.25rem;
+  }
+
+  .search-icon {
+    left: 0.75rem;
+    width: 16px;
+    height: 16px;
+  }
+
+  .records-table th,
+  .records-table td {
+    padding: 0.5rem;
+    font-size: 0.75rem;
+  }
+
+  .cell-number,
+  .cell-name,
+  .cell-phone,
+  .cell-email,
+  .cell-invoice {
+    min-width: 80px;
+  }
+
+  .cell-actions {
+    gap: 0.25rem;
+  }
+
+  .btn-view,
+  .btn-delete {
+    width: 32px;
+    height: 32px;
+    font-size: 0.8rem;
+  }
+
+  .pagination {
+    gap: 0.75rem;
+  }
+
+  .pagination-btn {
+    width: 36px;
+    height: 36px;
+  }
+
+  .records-info {
+    font-size: 0.8rem;
+  }
+}
